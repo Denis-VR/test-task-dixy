@@ -2,7 +2,7 @@
 
 ТЗ: https://e.mail.ru/attach/16281634930770471840/0%3B1/?x-email=ryabchickov20%40gmail.com&folder-id=0
 
-## Инструкция по развертыванию
+## Инструкция по тестированию
 
 Для развертывания необходимо иметь:
 - [JDK](https://www.oracle.com/ru/java/technologies/javase-jdk11-downloads.html) (11 версия)
