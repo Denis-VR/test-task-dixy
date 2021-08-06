@@ -14,7 +14,8 @@ git clone https://github.com/Denis-VR/test-task-dixy.git
 ```
 2. Запускаем тесты:
 ```
-mcn test
+cd test-task-dixy/
+mvn test
 ```
 3. В консоли будет следующий вывод. Для удобства в одном тесте был выведен Input и Output - исходные и итоговый массив.
 
